@@ -1,79 +1,76 @@
 # Curriculo-Front-End
 
-[Baixe meu currículo](https://github.com/Windisley/Curriculo-Front-End/blob/main/Front_End.pdf)
 
-# Windisley Lima Moreira
+Windisley Lima Moreira
+E-mail: windisleydev@gmail.com
+Telefone: 31995210110
 
-- **E-mail:** windisleydev@gmail.com  
-- **Telefone:** (31) 99521-0110  
-- **LinkedIn:** [linkedin.com/in/windisley-lima-ab9447221/](https://www.linkedin.com/in/windisley-lima-ab9447221/)  
-- **GitHub:** [github.com/Windisley](https://github.com/Windisley)  
-- **Portfólio:** [windisleydev.com.br](https://windisleydev.com.br/)
+LinkedIn:https://www.linkedin.com/in/windisley-lima-ab9447221/
+GitHub: https://github.com/Windisley
+Portfólio: https://windisleydev.com.br/
 
-## Desenvolvedor Front-End
+Desenvolvedor Front-End
+Desenvolvedor Front-End experiente, com sólido conhecimento em HTML, CSS, Tailwind Css, Git, Github, JavaScript e frameworks modernos como React.js. Apaixonado por criar interfaces de usuário funcionais e atraentes, com foco na experiência do usuário, performance e acessibilidade. 
+Habilidades Técnicas
+Linguagens e Tecnologias
+HTML5, CSS3, JavaScript (ES6+), React Js
+Tailwind Css, (Styled Components, Emotion)
+ Frameworks e Bibliotecas
+React.js
+Next.js
+Axios, Context API, React-Router-Dom
+Framer Motion
+   Ferramentas e Métodos de Desenvolvimento
+Git, GitHub
+Ferramenta de automação: Vite
+Design Responsivo e Mobile First
+Conhecimento em Metodologias Ágeis 
+Controle de Versionamento (Git Flow)
+   Outras Competências
+UX/UI Design básico (Figma)
+SEO
+Animações CSS e JavaScript (GSAP, Framer Motion)
 
-Desenvolvedor Front-End experiente, com sólido conhecimento em 
-**HTML**, **CSS**, **Tailwind CSS**, **Git**, **GitHub**, **JavaScript** e frameworks modernos como **React.js**. Apaixonado por criar interfaces de usuário funcionais e atraentes, com foco na experiência do usuário, performance e acessibilidade.
+Formação Acadêmica
+Senai Contagem Ui Nenem Scariolli
+Técnico em Informática para internet
+08/2022 – 03/2024
 
-## Habilidades Técnicas
+Projetos Destacados
 
-### Linguagens e Tecnologias
-- **HTML5**, **CSS3**, **JavaScript (ES6+)**, **React.js**
-- **Tailwind CSS** (Styled Components, Emotion)
+Portfólio
 
-### Frameworks e Bibliotecas
-- **React.js**
-- **Axios**, **Context API**, **React-Router-Dom**
-- **Framer Motion**
+ Este portfólio foi desenvolvido para apresentar minha trajetória como desenvolvedor front-end, destacando minhas habilidades, projetos e a tecnologia que utilizo no desenvolvimento de soluções web modernas e responsivas.  A seção de início apresenta uma visão geral sobre mim, destacando minha experiência como desenvolvedor front-end e meu compromisso com o desenvolvimento de interfaces dinâmicas e funcionais. Aqui, também, oferecemos links para contato direto, incluindo redes sociais como LinkedIn e GitHub, e a opção de baixar o currículo.
 
-### Ferramentas e Métodos de Desenvolvimento
-- **Git**, **GitHub**
-- **Vite** para automação de builds
-- Design Responsivo e **Mobile First**
-- Conhecimento em **Metodologias Ágeis**
-- Controle de Versionamento (**Git Flow**)
+Link do Projeto: https://windisleydev.com.br/#home 
 
-### Outras Competências
-- **UX/UI Design básico** (Figma)
-- **SEO**
-- Animações CSS e JavaScript (**GSAP**, **Framer Motion**)
+Via Cep
+A página é um aplicativo web projetado para facilitar a busca de informações de endereço a partir de um CEP (Código de Endereçamento Postal) brasileiro. O usuário pode inserir um CEP e obter rapidamente detalhes como estado, cidade (localidade) e rua correspondente a esse código. A aplicação é útil para pessoas que precisam verificar endereços, como em situações de entrega, cadastro ou simplesmente para conhecer melhor uma localidade.
+Tecnologias Usadas 
+1. React: Uma biblioteca JavaScript utilizada para construir a interface da aplicação, permitindo a criação de componentes reutilizáveis ​​e uma experiência de usuário responsiva.
+2. Axios: biblioteca JavaScript que permite realizar requisições HTTP de forma simples e intuitiva. 
 
-## Formação Acadêmica
-- **Senai Contagem - Ui Nenem Scariolli**  
-  Técnico em Informática para Internet  
-  08/2022 – 03/2024
+Link do Projeto: https://github.com/Windisley/Via-Cep 
 
-  Técnico em Informática para Internet  
-  08/2022 – 
- 
-## Projetos Destacados
-
-### [Portfólio](https://windisleydev.com.br/)
-Portfólio desenvolvido para apresentar minha trajetória como desenvolvedor front-end, destacando habilidades, projetos e tecnologias usadas no desenvolvimento de soluções web modernas e responsivas. A seção de início oferece uma visão geral sobre minha experiência e compromisso com o desenvolvimento de interfaces dinâmicas e funcionais, com links diretos para contato, redes sociais, e download do currículo.
-
-
-### [Via Cep](https://github.com/Windisley/Via-Cep)
-Aplicativo web para buscar informações de endereço a partir de um CEP brasileiro, permitindo acesso a detalhes como estado, cidade e rua. Utilizado para facilitar entregas, cadastros, e consultas de endereços.
-
-
-Aplicativo web para buscar informações de endereço a partir de um CEP brasileiro, permitindo acesso a detalhes como estado, cidade e rua. Utilizado para facilitar entregas, cadastros, e consultas de endereços
-
-Aplicativo web para buscar informações de ender
-**Tecnologias Usadas**  
-- **React** para construção de componentes reutilizáveis
-- **Axios** para requisições HTTP
-
-### [To-Do List](https://github.com/Windisley/To-Do-List-React)
-Aplicação de To-Do List desenvolvida com 
-**React** e **Tailwind CSS**, que demonstra gerenciamento de estado, persistência de dados no **localStorage** e estilização eficiente, proporcionando uma experiência de usuário fluida para o gerenciamento de tarefas.
-
-### [E-commerce de Relógios](https://github.com/Windisley/E-commerce)
-Simulação de um e-commerce de relógios desenvolvido com 
-**React**. Utiliza **Context API** para gerenciamento global de estado, **Tailwind CSS** para responsividade e **React Router** para navegação entre páginas.
-
-## Idiomas
-- **Português:** Nativo
-- **Inglês:** Básico
+Landing Page - Monitor Samsung T350
+Desenvolvi uma landing page responsiva e moderna para destacar os benefícios do monitor Samsung T350, como painel IPS, taxa de atualização de 75Hz e perfis de usuários beneficiados (gamers, estudantes e profissionais). Inclui seções de garantia com reembolso em 30 dias e perguntas frequentes interativas para facilitar decisões de compra. 
+Utilizei HTML5, CSS3 (Tailwind), JavaScript e TypeScript para criar uma experiência de navegação informativa e visualmente atraente, com foco em conversão de visitantes em clientes.
+Link do Projeto: https://monitor-gamer-sansung-t350.com.br/ 
 
 
+Landing Page - Super Groom 10 da Mondial
+
+
+Desenvolvi uma landing page moderna e responsiva para promover o Super Groom 10, destacando seus benefícios e funcionalidades, como design ergonômico e múltiplos usos. 
+
+
+O projeto inclui animações suaves, otimização de imagens e uma seção de garantia para construir confiança no cliente. 
+
+
+Utilizei tecnologias como Next.js, React.js, TypeScript e Tailwind CSS para oferecer uma experiência visual interativa e aumentar a conversão de visitantes em clientes potenciais.
+ Link do Projeto: https://www.aparadormondial.com.br/ 
+
+Idiomas
+Português: Nativo
+Inglês: Intermediário
 
